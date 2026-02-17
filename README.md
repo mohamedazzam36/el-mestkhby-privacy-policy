@@ -1,1 +1,0 @@
-# el-mestkhby-privacy-policy
