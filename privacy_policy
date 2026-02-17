@@ -1,0 +1,33 @@
+Privacy Policy
+El-Mestkhby (المستخبي)
+Effective Date: February 17, 2026
+Developer: Mohamed Azzam
+Contact Email: mohamedazzam1236@gmail.com
+
+This Privacy Policy describes how El-Mestkhby (المستخبي) ("we", "our", or "us") collects, uses, and protects information when you use our mobile application.
+
+We respect your privacy. El-Mestkhby does not require account registration and does not collect personal data from users.
+
+El-Mestkhby does not collect, store, or share any personally identifiable information (PII), including but not limited to full name, email address, phone number, physical address, location data, contacts, account credentials, or media files. The application does not provide login, sign-up, or user account functionality.
+
+The application uses Hive (local database storage) to store player names entered within the game and leaderboard results or game-related progress. This data is stored locally on the user’s device only. It is not transmitted to the developer, not uploaded to any remote server, and not shared with any third party. Users can delete this data at any time by clearing the app’s data or uninstalling the application.
+
+El-Mestkhby may request permission to send notifications. The app uses Firebase Cloud Messaging (FCM) for push notifications and local notification services for in-app reminders. Notifications are used strictly for game-related updates, announcements, and reminders. We do not use notifications to collect personal information. Users may disable notifications at any time through their device settings.
+
+El-Mestkhby uses Google Firebase services for notification delivery and basic app functionality. Firebase may automatically collect certain non-personal technical information such as device type, operating system version, anonymous device identifiers, and app performance or crash logs (if enabled). This information is processed by Google in accordance with their Privacy Policy available at https://policies.google.com/privacy
+. We do not access, control, or store personally identifiable information through Firebase.
+
+El-Mestkhby does not use advertising SDKs, third-party behavioral tracking technologies, or external analytics services beyond Firebase’s basic functionality. The app does not use cookies.
+
+We take reasonable measures to protect the integrity of the application and any limited technical data processed by third-party services. However, no method of electronic transmission or electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+El-Mestkhby does not knowingly collect personal information from children under the age of 13 (or the applicable minimum age in your country). Since the application does not collect personal data, it is intended for general audiences. If you believe that any personal information has been unintentionally collected, please contact us immediately.
+
+Since we do not collect or store personal data, there is no user data held by the developer that requires access, correction, or deletion requests. All locally stored game data can be removed directly by the user through device settings.
+
+We may update this Privacy Policy from time to time. Any changes will be posted with an updated effective date. Continued use of the application after changes are posted constitutes acceptance of the updated policy.
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, you may contact:
+
+Mohamed Azzam
+Email: mohamedazzam1236@gmail.com
